@@ -1,0 +1,117 @@
+.panel{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-align: center;
+}
+.panel-info {
+    border-color: #bce8f1;
+    margin-left: 250px;
+    margin-top: 1rem;
+    width: 80%;
+   
+}
+.panel-info .panel-heading{
+    padding: 10px 15px;
+    color:#31708f; 
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+    border-color: #bce8f1;
+    border-bottom: 1px solid transparent;
+    border-radius: 4px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    text-align:justify;
+    
+}
+.panel-infoo .panel-headingg{
+    color:#31708f; 
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 10px 15px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    margin-left: 229px;
+    text-align:center ;
+}
+.panel-info .panel-body{
+    padding: 15px;
+}
+.panel-info .estilo{
+    color:black;
+    
+    font-weight: 600;
+}
+.panel-info .estilo .agregar{
+    background-color:#00a65a;
+    color: #fff;
+    border-color: #008d4c;
+    border-radius: 3px;
+    touch-action: manipulation;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    cursor:pointer;
+    
+}
+.panel-info .estilo .aplicar{
+    background-color:#286090;
+    color: #fff;
+    border-color: #204d74;
+    border-radius: 3px;
+    touch-action: manipulation;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    cursor:pointer;
+    
+}
+.panel-infoo  .guardar{
+    background-color:#00a65a;
+    color: #fff;
+    border-color:#008d4c;
+    border-radius: 3px;
+    touch-action: manipulation;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    cursor:pointer;
+    margin-left: 230px;
+}
+.table{
+    font-size: 14px;
+    margin-top: 3px;
+}
+.table .titulos{
+    background-color:#428bc7;
+    color: #fff;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-align: justify;
+}
+.table .tt{
+    background-color: #00a65a;
+    
+}
+.aplicar{
+    background-color:#00a65a;
+    color: #fff;
+    border-color: #008d4c;
+    border-radius: 3px;
+    touch-action: manipulation;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    cursor:pointer;
+}
+.form-group .form-controol{
+    padding: 6px 12px;
+    height: 34px;
+    width: 250px;
+    
+}
+.form-group .form-controool{
+    padding: 6px 12px;
+    height: 34px;
+    width: 400px;
+}

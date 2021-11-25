@@ -1,0 +1,34 @@
+.main-header{
+    position:relative;
+    margin-top: 0;
+    background-color: #00a65a;
+    min-height: 30px;
+    display: flex;
+
+}
+.main-header .nav-bar i{
+    margin-left: 235px;
+    color: #fff;
+    
+}
+.main-header .btn-danger {
+margin-left: -10px;
+cursor: pointer;
+
+padding: 6px 12px;
+
+
+}
+.mostrar{
+    margin-left: 0;
+}
+
+ .user-menu .user-image{
+    float: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+    position:relative;
+}
+
